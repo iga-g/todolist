@@ -1,2 +1,2 @@
 # todolist
-It's little todo project to train JS and Bootstrap
+It's a little todo project to train JS and Bootstrap
